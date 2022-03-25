@@ -2,7 +2,7 @@
 
 A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB based on MVC & Rest
 
-<img width="800" alt="Img" src="./img.png"/>
+<img width="800" alt="Img" src="./image.png"/>
 <br />
 <br />
 
