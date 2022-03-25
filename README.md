@@ -31,7 +31,7 @@ Make sure you have the latest Stable or LTS version of Node.js installed.
 ## Available Commands
 
 - `npm start` - start the dev server
-- `nodemon app.js` - delete the dist folder
+- `nodemon app.js` - start the dev server
 
 ## Code Coverage
 
