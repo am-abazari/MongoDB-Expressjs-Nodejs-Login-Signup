@@ -11,7 +11,6 @@ const PORT = 4000;
 app.use("/api", router)
 app.use("/", routerPages)
 
-
 mongoose.connect("mongodb://0.0.0.0:27017/MernLogin", (e) => {
     if (!e) app.listen(PORT, () => console.log(`http://localhost:${PORT}`))
     else console.log(e.message);
