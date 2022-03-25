@@ -7,6 +7,8 @@ const userListData = new mongoose.Schema({
     password: { type: String, required: true, },
     age: { type: Number, required: false, min: 18, max: 100 },
     skills: { type: [String], required: false },
+    token: { type: String, required: true },
+    active: { type: Boolean, default: false }
 }, { timestamps: true })
 
 const userModel = mongoose.model("user", userListData)
