@@ -1,4 +1,4 @@
-# Rest/MVC Login/Signup Expressjs , Nodejs , MongoDB
+# Rest Login/Signup Expressjs , Nodejs , MongoDB
 
 A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB based on MVC & Rest
 
@@ -12,7 +12,6 @@ A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB based on MVC & Re
 - [x] MongoDB
 - [x] Google Font API
 - [x] Restful API
-- [x] MVC
 - [x] ES6 linting with continuous linting on file change
 
 
