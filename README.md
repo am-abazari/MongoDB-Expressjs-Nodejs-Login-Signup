@@ -1,6 +1,6 @@
 # Rest Login/Signup Expressjs , Nodejs , MongoDB
 
-A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB based on MVC & Rest
+A Simple Login & Signup app Using Epxressjs , Nodejs , MongoDB based on Rest
 
 <img width="800" alt="Img" src="./image.png"/>
 <br />
